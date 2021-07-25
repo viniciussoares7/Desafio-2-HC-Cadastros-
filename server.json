@@ -1,0 +1,74 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "photo": "https://images.unsplash.com/photo-1558393427-2cacc60071f6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZnVzY2F8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "name": "Fusca Azul",
+      "description": "Doc em dia / Aceito troca",
+      "price": 15000
+    },
+    {
+      "id": 2,
+      "photo": "https://images.unsplash.com/photo-1600106804353-3da513a7f685?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZnVzY2F8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "name": "Fusca Preto",
+      "description": "Doc atrasado",
+      "price": 8000
+    },
+    {
+      "id": 3,
+      "photo": "https://images.unsplash.com/photo-1602856917305-284553ac091d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZnVzY2F8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "name": "Fusca velho",
+      "description": "Motor já era",
+      "price": 2000
+    },
+    {
+      "id": 4,
+      "photo": "https://images.unsplash.com/photo-1584654448570-7ae442735516?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8ZnVzY2F8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "name": "Fusca do Zé",
+      "description": "Bonito e cheiroso",
+      "price": 20000
+    },
+    {
+      "id": 5,
+      "photo": "https://images.unsplash.com/photo-1521838386950-f1f96cedd74b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8ZnVzY2F8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "name": "Fusca amarelo",
+      "description": "É amarelo",
+      "price": 14000
+    },
+    {
+      "id": 6,
+      "photo": "https://images.unsplash.com/photo-1586456883891-879708b10171?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGZ1c2NhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "name": "Fusca laranjinha",
+      "description": "Ta top",
+      "price": 10000
+    },
+    {
+      "id": 7,
+      "photo": "https://images.unsplash.com/photo-1536168483275-f5736f5c844b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGZ1c2NhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "name": "Fusca Azul",
+      "description": "É verde",
+      "price": 6000
+    },
+    {
+      "id": 8,
+      "photo": "https://images.unsplash.com/photo-1459515581694-46b4d817903b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fGZ1c2NhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "name": "Projeto de fusca",
+      "description": "Antigo dono era maluco",
+      "price": 40000
+    },
+    {
+      "id": 9,
+      "photo": "https://images.unsplash.com/photo-1553533940-af2dd352cd6a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDV8fGZ1c2NhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "name": "Fusca diferente",
+      "description": "roda estranha",
+      "price": 14000
+    },
+    {
+      "id": 10,
+      "photo": "https://images.unsplash.com/photo-1534338979347-d83567208be2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fGZ1c2NhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "name": "Fusca",
+      "description": "É um fusca normal",
+      "price": 2000
+    }
+  ]
+}

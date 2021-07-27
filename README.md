@@ -2,9 +2,8 @@
 
 <br>
 
-# `Description:`
+# `Description:` **`sing-up items ecommerce page`**
 
-## **`sing-up items ecommerce page`**
 
 <br>
 
